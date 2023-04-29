@@ -29,7 +29,7 @@ The charts/visualization can be accessed in the [pdf](https://github.com/Elohoro
 
 ## Observations/Insights
 <br> •	The average temperature in my city, Lagos is higher than the average of the world, suggesting that Lagos is hotter than the average city in the world.
-<br> •	The trend is an slowly rising upward trend for both data, suggesting that the world is heading to a global warming crisis in the coming years.
+<br> •	The trend is a slowly rising upward trend for both data, suggesting that the world is heading to a global warming crisis in the coming years.
 <br> •	The upward trend in Nigeria is however steeper with spikes and fluctuations than that of the global data. This is observed around 1861- 1879.
 <br> •	The rise in the trend is mostly observe towards the end of the line, 2002-2013 with a sharp rise in this area.
 
